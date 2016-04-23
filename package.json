@@ -1,0 +1,31 @@
+{
+  "name": "cordova-opentok-android-permissions",
+  "version": "1.0.0",
+  "description": "This cordova plugin invokes permission for all the hardwares which require for a video chat",
+  "cordova": {
+    "id": "cordova-opentok-android-permissions",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patwaswapnil/cordova-opentok-android-permissions.git"
+  },
+  "keywords": [
+  "Opentok permissions",
+   "opentok openSSL",
+    "videochat android permissions",
+    "Camera android permission",
+    "Audio android permission",
+    "cordova",
+    "media",
+    "android",
+    "camera",
+    "camera permission",
+    "audio permissions",
+    "permissions"
+  ],
+  "author": "Swapnil Patwa",
+  "license": "Apache 2.0"
+}
