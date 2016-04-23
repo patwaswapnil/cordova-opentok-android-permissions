@@ -22,19 +22,19 @@ Cordova/Ionic/PhoneGap Plugin for WebRTC Permissions Android
 # cordova-opentok-android-permissions
 
 This plugin adds following permissions to Android device-
-'android.permission.CAMERA'
-'android.permission.INTERNET'
-'android.permission.RECORD_AUDIO'
-'android.permission.WAKE_LOCK'
-'android.permission.MODIFY_AUDIO_SETTINGS'
+-android.permission.CAMERA
+-android.permission.INTERNET
+-android.permission.RECORD_AUDIO
+-android.permission.WAKE_LOCK
+-android.permission.MODIFY_AUDIO_SETTINGS
 
 ## Installation
 
 This requires cordova 5.0+
 
-Cordova/Ionic
+**Cordova/Ionic**
     cordova plugin add cordova-plugin-camera
-PhoneGap Build
+**PhoneGap Build**
   '<plugin name="cordova-opentok-android-permissions" source="npm" />'
 
 
