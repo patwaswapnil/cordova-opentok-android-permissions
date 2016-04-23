@@ -35,7 +35,7 @@ This requires cordova 5.0+
 
 **Cordova/Ionic**:
 ```
-   cordova plugin add cordova-plugin-
+   cordova plugin add cordova-opentok-android-permissions
 ```
 **PhoneGap Build**:
 ```
