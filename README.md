@@ -17,9 +17,9 @@
 #         under the License.
 -->
 
-Cordova/Ionic/PhoneGap Plugin for WebRTC Permissions Android
+cordova-opentok-android-permissions
 ===
-# cordova-opentok-android-permissions
+# Cordova/Ionic/PhoneGap Plugin for WebRTC Permissions Android
 
 This plugin adds following permissions to Android device:
 ```
